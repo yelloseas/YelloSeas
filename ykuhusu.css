@@ -1,0 +1,25 @@
+.flex{
+ display: flex;
+ background-color: ;
+ padding: 0.1%;
+}
+.flex div{
+ background-color: lightgrey;
+ margin: 1%;
+ width: 50%;
+ height: auto;
+ border: 5px solid maroon;
+ padding: 1%;
+ border-radius: 5%;
+}
+.flex div h1{
+ text-align: center;
+ font-size: 200%;
+ color: maroon;
+}
+dt{
+ display: inline;
+ font-weight: bold;
+}
+dl{
+}
